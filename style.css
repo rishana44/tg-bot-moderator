@@ -1,0 +1,78 @@
+body {
+margin: 0px;
+padding: 0px;
+background-image: radial-gradient(#c7c7c7 25%, #c7c7c7 74%);
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.wrapper {
+height: 1200px;
+width: 800px;
+background-color: rgb(219, 204, 252);
+box-shadow: 4px 4px 8px 0px rgba(29, 143, 231, 0.2);
+margin: 20px auto;
+}
+
+.top {
+background-color: rgb(24, 16, 94);
+text-align: center;
+padding: 35px;
+}
+
+.profile {
+width: 170px;
+border-radius: 50%;
+}
+
+.head:hover {
+text-decoration: underline;
+box-shadow: 2px 4px 75px 45px rgba(255, 13, 56, 0.36);
+}
+
+.p1 {
+color: white;
+font-size: 40px;
+font-weight: bold;
+margin: 5px;
+margin-top: 10px;
+}
+
+.p2 {
+font-size: 30px;
+color: white;
+margin: 5px;
+margin-top: 10px;
+}
+
+.col-div-4 {
+width: 40%;
+float:left;
+}
+
+.col-div-8 {
+width: 60%;
+float: left;
+}
+
+.line {
+border: 2px solid white;
+height: 800px;
+width: 2%;
+float: left;
+}
+
+.content-box {
+padding: 20px;
+}
+
+.head {
+font-size: 25px;
+text-transform: uppercase;
+font-weight: 500;
+}
+
+.p3 {
+color: red;
+margin-bottom: -3px;
+}
+
